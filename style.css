@@ -1,0 +1,46 @@
+body {
+    background-color: #97b9f0;
+}
+
+.b {
+    color: #2167ff;
+}
+
+.o {
+    color: #f7b320;
+}
+
+.g {
+    color: #2db53b;
+    text-align: center;
+
+}
+
+h4 {
+    color: #7a3138;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+li {
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+
+}
+
+body {
+    background-image: url(https://newvisualthings.com/wp-content/uploads/2020/03/cover_tan_stucco-1184x790.jpg);
+}
+
+.hp {
+    font-size: 40px;
+    color: #000000;
+    text-align: center;
+
+}

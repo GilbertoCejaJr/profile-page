@@ -1,0 +1,96 @@
+body {
+    background-color: #e3ccb1;
+}
+
+div.all {
+    justify-content: space-around;
+}
+
+
+
+div.columns {
+    justify-content: space-between;
+    border: solid black;
+    display:flex;
+}
+
+h1 {
+    text-align: center;
+}
+
+div.title1,
+div.title2,
+div.title3 {
+    justify-content: center;
+    text-align: center;
+}
+
+img.mediaicons {
+    height: 200px;
+    width: 200px;
+}
+
+div.cosa1,div.cosa2,div.cosa3
+{
+    display:flex;
+    justify-content:center;
+}
+
+p.face {
+    color: #3b5998;
+    text-align: center;
+}
+
+p.insta {
+    color: #8a3ab9;
+    text-align: center;
+}
+
+p.tweet {
+    color: #00acee;
+    text-align: center;
+}
+
+p.phone {
+    font-size: 30px;
+    text-align: Center;
+}
+
+img.location {
+    width: 500px;
+    height: 500px;
+    border: solid green;
+    border-radius: 30%;
+}
+
+img.comida1,
+img.comida2,
+img.comida3 {
+    width: 300px;
+    height: 300px;
+    border: brown solid;
+    border-radius: 15%;
+}
+
+p.c,
+p.m,
+p.s {
+    font-size: 50px;
+    text-decoration: underline;
+
+}
+
+p.letras1,
+p.letras2,
+p.letras3 {
+    font-size: 30px;
+    text-align: Center;
+}
+
+p.face,
+p.insta,
+p.tweet {
+    font-size: 30px;
+    text-align: center;
+}
+
